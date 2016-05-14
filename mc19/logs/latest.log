@@ -1,0 +1,26 @@
+[00:03:41] [Server thread/INFO]: steven was slain by Zombie
+[00:03:47] [Server thread/INFO]: [steven: Teleported steven to 249.436, 42.0, 1169.777]
+[00:16:16] [Server thread/INFO]: steven was shot by Skeleton
+[00:16:21] [Server thread/INFO]: [steven: Teleported steven to 249.436, 42.0, 1169.777]
+[00:31:08] [Server thread/INFO]: steven was shot by Skeleton
+[00:46:45] [Server thread/INFO]: steven fell out of the world
+[00:46:45] [Server thread/INFO]: [steven: Killed steven]
+[00:47:06] [Server thread/WARN]: steven moved too quickly! 0.0,-10.811596629254801,0.0
+[00:56:18] [Server thread/INFO]: steven fell out of the world
+[00:56:18] [Server thread/INFO]: [steven: Killed steven]
+[01:18:07] [Server thread/INFO]: steven fell out of the world
+[01:18:07] [Server thread/INFO]: [steven: Killed steven]
+[01:42:45] [Server thread/INFO]: steven fell out of the world
+[01:42:45] [Server thread/INFO]: [steven: Killed steven]
+[01:45:58] [Server thread/INFO]: [steven: Set own game mode to Survival Mode]
+[01:46:02] [Server thread/INFO]: [steven: Set own game mode to Creative Mode]
+[01:47:21] [Server thread/INFO]: steven lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:47:21] [Server thread/INFO]: steven left the game
+[01:47:28] [Server thread/INFO]: Stopping the server
+[01:47:28] [Server thread/INFO]: Stopping server
+[01:47:28] [Server thread/INFO]: Saving players
+[01:47:28] [Server thread/INFO]: Saving worlds
+[01:47:28] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[01:47:29] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[01:47:29] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[01:47:29] [Server Shutdown Thread/INFO]: Stopping server
