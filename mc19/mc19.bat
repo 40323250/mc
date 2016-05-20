@@ -1,3 +1,3 @@
 @echo off
 
-java -Xmx1024M -Xms1024M -jar minecraft_server.1.9.jar nogui
+java -Xmx4096M -Xms1024M -jar minecraft_server.1.9.jar nogui
